@@ -1,3 +1,3 @@
 # training360-szoftverarchitekturak
 
-![Első_kép](Standalone konzolos alkalmazás.jpg)
+![Első_kép](Képernyőkép 2021-02-07 182102.png)
