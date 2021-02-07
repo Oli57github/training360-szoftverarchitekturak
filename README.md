@@ -58,4 +58,4 @@
 ### 3. kép
 ![_](https://github.com/Oli57github/training360-szoftverarchitekturak/blob/main/webes_alkalmaz%C3%A1s3.jpg)
 
-
+### (Folyt. köv.)
