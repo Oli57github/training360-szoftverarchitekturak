@@ -7,19 +7,19 @@
 ## Standalone alkalmazás grafikus felülettel (gyakorlat)
 
 ![_](https://github.com/Oli57github/training360-szoftverarchitekturak/blob/main/Standalone%20alkalmaz%C3%A1s%20grafikus%20fel%C3%BClettel1.jpg)
-#
+# >
 ![_](https://github.com/Oli57github/training360-szoftverarchitekturak/blob/main/Standalone%20alkalmaz%C3%A1s%20grafikus%20fel%C3%BClettel2.jpg)
 
 ## Központi adatbázis (gyakorlat)
 
 ![_](https://github.com/Oli57github/training360-szoftverarchitekturak/blob/main/K%C3%B6zponti%20adatb%C3%A1zis1.jpg)
-#
+# > 
 ![_](https://github.com/Oli57github/training360-szoftverarchitekturak/blob/main/K%C3%B6zponti%20adatb%C3%A1zis2.jpg)
-#
+# >
 ![_](https://github.com/Oli57github/training360-szoftverarchitekturak/blob/main/K%C3%B6zponti%20adatb%C3%A1zis3.jpg)
-#
+# >
 ![_](https://github.com/Oli57github/training360-szoftverarchitekturak/blob/main/K%C3%B6zponti%20adatb%C3%A1zis4.jpg)
-#
+# >
 ![_](https://github.com/Oli57github/training360-szoftverarchitekturak/blob/main/K%C3%B6zponti%20adatb%C3%A1zis5.jpg)
 
 ## SQL nyelv (gyakorlat)
